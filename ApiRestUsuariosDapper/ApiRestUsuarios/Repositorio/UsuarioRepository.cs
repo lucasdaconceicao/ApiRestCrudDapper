@@ -80,5 +80,19 @@ namespace ApiRestUsuarios.Repositorio
                     new {codigo=id});
             }
         }
+         public Usuario Login(Usuario usuario)
+        {
+            using(SqlConnection conexao = new SqlConnection(_configuracoes.GetConnectionString("DefaultConnection"))){
+                Criptografia cripto = new Criptografia(); 
+                usuario.senha=cripto.RetornarMD5(usuario.senha);
+                return conexao.QueryFirstOrDefault<Usuario>(
+                    @"SELECT
+                        senha
+                    FROM USUARIOS
+                    WHERE nome=@nome AND 
+                    senha=@senha",
+                   usuario);
+            }
+        } 
     }
 }

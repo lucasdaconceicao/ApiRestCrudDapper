@@ -63,5 +63,16 @@ namespace ApiRestUsuarios.Controllers
             return Ok();
 
         }
+        [HttpPost("{id}")]
+        public IActionResult Login(int id,[FromBody]Usuario usuario){
+            if(usuario==null){
+                return BadRequest();
+            }
+            var resutado =_usuarioRepositorio.Login(usuario);
+            if(resutado==null){
+                return BadRequest();
+            }
+            return Ok();
+        }
     }
 } 

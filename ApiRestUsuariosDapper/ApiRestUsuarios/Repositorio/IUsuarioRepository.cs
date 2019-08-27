@@ -13,6 +13,6 @@ namespace ApiRestUsuarios.Repositorio
         Usuario ObterPorId(int id);
         void Remover(int id);
         void Atualizar(Usuario usuario);
-
+        Usuario Login(Usuario usuario);
     }
 }

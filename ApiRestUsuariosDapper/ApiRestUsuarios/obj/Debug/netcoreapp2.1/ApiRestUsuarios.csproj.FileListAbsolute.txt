@@ -26,3 +26,17 @@ C:\Users\lucas\source\repos\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netc
 C:\Users\lucas\source\repos\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.RazorTargetAssemblyInfo.cache
 C:\Users\lucas\source\repos\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.dll
 C:\Users\lucas\source\repos\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.pdb
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\bin\Debug\netcoreapp2.1\ApiRestUsuarios.deps.json
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\bin\Debug\netcoreapp2.1\ApiRestUsuarios.runtimeconfig.json
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\bin\Debug\netcoreapp2.1\ApiRestUsuarios.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\bin\Debug\netcoreapp2.1\ApiRestUsuarios.dll
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\bin\Debug\netcoreapp2.1\ApiRestUsuarios.pdb
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.RazorAssemblyInfo.cache
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.RazorAssemblyInfo.cs
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.dll
+C:\Users\lucas\source\repos\ApiRestCrudDapper\ApiRestUsuariosDapper\ApiRestUsuarios\obj\Debug\netcoreapp2.1\ApiRestUsuarios.pdb
